@@ -1,6 +1,8 @@
 # Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
@@ -66,31 +68,30 @@ classification_report1=classification_report(y_test,y_pred)
 print("Classification Report:\n",classification_report1)
 model.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
-
 ## Output:
-## DataSet Information:
+### DataSet Information:
 ![image](https://github.com/Adhithyaram29D/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119393540/0e822e22-3640-4c3b-bc33-98825910ea72)
 
-## NULL Values:
+### NULL Values:
 <img src= "https://github.com/Adhithyaram29D/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119393540/b853ab78-135c-4416-b808-4176aaf589e5" height="200">
 
-## Transformed Data:
+### Transformed Data:
 <img src = "https://github.com/Adhithyaram29D/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119393540/2411e0f1-17d3-45d4-91a2-32d239e5a26b" width="500">
 
-## X and Y:
+### X and Y:
 <img src = "https://github.com/Adhithyaram29D/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119393540/b5a871a4-fca1-4d6b-aa1c-15940cbc2a41" width="500">
 <img src = "https://github.com/Adhithyaram29D/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119393540/7b9f31c1-833f-4a67-9459-f173c35cb79b" width="300">
 
-## Y Predicted:
+### Y Predicted:
 <img src = "https://github.com/Adhithyaram29D/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119393540/41ac6a53-0b8e-4c16-ae93-2f1082912bc0" width="500">
 
-## Accuracy:
+### Accuracy:
 <img src = "https://github.com/Adhithyaram29D/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119393540/09cd54e1-7502-427d-84f6-117f80d08bd8" width="200">
 
-## Confusion Matrix:
+### Confusion Matrix:
 <img src = "https://github.com/Adhithyaram29D/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119393540/5649d2e5-cc30-45f3-abf6-80f3e2ab6128" width="200">
 
-## Classification Report:
+### Classification Report:
 <img src = "https://github.com/Adhithyaram29D/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119393540/9b7b1a88-25dc-45ce-8cd9-e6846eff237c" width="300">
 
 ## Result:
